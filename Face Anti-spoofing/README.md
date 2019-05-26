@@ -1,5 +1,26 @@
 ---
-## Face Anti-Spoofing
+# FACE SPOOFING
+
+Acquiring someone else’s privileges and access rights by using substitutes to an authorised human face.
+
+Some spoofing attacks are :
+
+* **Print Attack** : A 2D picture of the face is used. It is either printed or displayed on a digital device. The printed picture is bended and moved in different directions to simulate facial motions.
+
+* **Replay / Video Attack** : A looped video of the victim’s face is used to fool the system. This method makes facial expressions and motion look more natural. It’s a more sophisticated way of attack than print method.
+
+* **3D mask attack** :  A facial mask of the victim is used to fool the system. This is even more sophisticated than playing a video because in addition to facial expressions and motion, it can also fool special protection tools like depth sensors.
+
+### Anti-Spoofing State-of-the-art techniques
+
+- **Face Liveness Test** : It is based on analysis of how alive the test face is. It is done by checking eye movements like blinking and face movements.
+
+- **Contextual Information techniques** : By investigating image surrounding, we can identify if there is a printed image or digital device.
+
+- **User Interaction** :  The recognition system interacts with the user and asks to perform specific tasks lie moving the face or blinking and identifying if the test face does that in real time.
+
+## Face Anti-Spoofing Papers
+
 - Jianwei Yang, Zhen Lei, Stan Z. Li .[Learn Convolutional Neural Network for Face Anti-Spoofing](https://arxiv.org/pdf/1408.05601) .[J] arXiv preprint arXiv:1408.05601.
 - Zinelabidine Boulkenafet, Jukka Komulainen, Abdenour Hadid .[face anti-spoofing based on color texture analysis](https://arxiv.org/pdf/1511.06316) .[J] arXiv preprint arXiv:1511.06316.
 - Yaojie Liu, Amin Jourabloo, Xiaoming Liu .[Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary  Supervision](https://arxiv.org/pdf/1803.11097) .[J] arXiv preprint arXiv:1803.11097.
