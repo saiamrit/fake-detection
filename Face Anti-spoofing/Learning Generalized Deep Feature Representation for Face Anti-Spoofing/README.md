@@ -1,5 +1,5 @@
 ## Learning Generalized Deep Feature Representation for Face Anti-Spoofing
-
+[IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY]
 In this paper, we propose a novel framework
 leveraging the advantages of the representational ability of deep
 learning and domain generalization for face spoofing detection.
