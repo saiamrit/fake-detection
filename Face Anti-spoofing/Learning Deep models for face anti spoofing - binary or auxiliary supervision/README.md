@@ -1,3 +1,5 @@
+## Learning Deep models for face anti spoofing - binary or auxiliary supervision
+
 - Most methods formulate anti spoofing as a binary classification problem.
 - They focus on the importance of auxiliary supervision to guide the learning towards generalisable and discriminative cues.
 - CNN - RNN model is learnt to estimate face deepth with pixel wise supervision and estimate rPPG signals with sequence wise supervision.
