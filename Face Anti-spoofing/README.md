@@ -33,8 +33,6 @@ Some spoofing attacks are :
 
 ## Face Anti-Spoofing Papers
 
-- Jianwei Yang, Zhen Lei, Stan Z. Li .[Learn Convolutional Neural Network for Face Anti-Spoofing](https://arxiv.org/pdf/1408.05601) .[J] arXiv preprint arXiv:1408.05601.
-- Zinelabidine Boulkenafet, Jukka Komulainen, Abdenour Hadid .[face anti-spoofing based on color texture analysis](https://arxiv.org/pdf/1511.06316) .[J] arXiv preprint arXiv:1511.06316.
 - Yaojie Liu, Amin Jourabloo, Xiaoming Liu .[Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary  Supervision](https://arxiv.org/pdf/1803.11097) .[J] arXiv preprint arXiv:1803.11097.
 - Amin Jourabloo, Yaojie Liu, Xiaoming Liu .[Face De-Spoofing: Anti-Spoofing via Noise Modeling](https://arxiv.org/pdf/1807.09968) .[J] arXiv preprint arXiv:1807.09968.
 - Jiaxu Zuo, Tom Gedeon, Zhenyue Qin .[Your Eyes Say You're Lying: An Eye Movement Pattern Analysis for Face Familiarity and Deceptive Cognition](https://arxiv.org/pdf/1811.03401) .[J] arXiv preprint arXiv:1811.03401.
