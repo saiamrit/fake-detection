@@ -69,20 +69,13 @@ Some spoofing attacks are :
 
 - Peng Zhang, Fuhao Zou, Zhiwen Wu, Nengli Dai, Skarpness Mark, Michael Fu, Juan Zhao, Kai Li [FeatherNets: Convolutional Neural Networks as Light as Feather for Face Anti-spoofing](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/FeatherNets:%20Convolutional%20Neural%20Networks%20as%20Light%20as%20Feather%20for%20Face%20Anti-spoofing)
 
-- Chenxu Zhao, Yunxiao Qin, Zezheng Wang, Tianyu Fu, Hailin Shi [Meta Anti-spoofing: Learning to Learn in Face Anti-spoofing](https://arxiv.org/pdf/1904.12490)
+- Chenxu Zhao, Yunxiao Qin, Zezheng Wang, Tianyu Fu, Hailin Shi [Meta Anti-spoofing: Learning to Learn in Face Anti-spoofing](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/Learning%20Generalized%20Deep%20Feature%20Representation%20for%20Face%20Anti-Spoofing)
 
-- Haoliang Li, Peisong He, Shiqi Wang, Anderson Rocha, Xinghao Jiang, and Alex C. Kot [Learning Generalized Deep Feature Representation for Face Anti-Spoofing]()
+- Haoliang Li, Peisong He, Shiqi Wang, Anderson Rocha, Xinghao Jiang, and Alex C. Kot [Learning Generalized Deep Feature Representation for Face Anti-Spoofing](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/Learning%20Generalized%20Deep%20Feature%20Representation%20for%20Face%20Anti-Spoofing)
 
 - Olegs Nikisins, Anjith George, Sebastien Marcel [Domain Adaptation in Multi-Channel Autoencoder based Features for Robust
-Face Anti-Spoofing]()
+Face Anti-Spoofing](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/Domain%20Adaptation%20in%20Multi-Channel%20Autoencoder%20based%20Features%20for%20Robust%20Face%20Anti-Spoofing)
 
-- Rui Shao , Xiangyuan Lan , and Pong C. Yuen [Joint Discriminative Learning of Deep Dynamic Textures for 3D Mask Face Anti-Spoofing]()
+- Rui Shao , Xiangyuan Lan , and Pong C. Yuen [Joint Discriminative Learning of Deep Dynamic Textures for 3D Mask Face Anti-Spoofing](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/Joint%20Discriminative%20Learning%20of%20Deep%20Dynamic%20Textures%20for%203D%20Mask%20Face%20Anti-Spoofing)
 
-- Javier Hernandez-Ortega, Julian Fierrez, Aythami Morales, Pedro Tome [Time Analysis of Pulse-based Face Anti-Spoofing in Visible and NIR]()
-
-- Kaouthar Larbi, Wael Ouarda, Hassen Drira, Booulbaba Ben Amor, and Chokri Ben Amar [DeepColorFASD: Face Anti Spoofing Solution using a Multi Channeled Color Spaces CNN]()
-
-- Wen-Shuai Qi, Hui-Ming Ding, You-Bao Wang, Zhi-Feng Xie [Scene-independent Feature Representation for Face Anti-spoofing]()
-
-- Artur Costa-Pazo, David Jimenez-Cabello, Esteban Vazquez-Fernandez, Jose L. Alba-Castro, Roberto J. López-Sastre [Generalized Presentation Attack Detection: a face anti-spoofing evaluation proposal]()
-
+- Javier Hernandez-Ortega, Julian Fierrez, Aythami Morales, Pedro Tome [Time Analysis of Pulse-based Face Anti-Spoofing in Visible and NIR](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/Time%20Analysis%20of%20Pulse-based%20Face%20Anti-Spoofing%20in%20Visible%20and%20NIR)
