@@ -39,19 +39,50 @@ Some spoofing attacks are :
 
 ## Face Anti-Spoofing Papers
 
-- Yaojie Liu, Amin Jourabloo, Xiaoming Liu .[Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary  Supervision](https://arxiv.org/pdf/1803.11097)
-- Amin Jourabloo, Yaojie Liu, Xiaoming Liu .[Face De-Spoofing: Anti-Spoofing via Noise Modeling](https://arxiv.org/pdf/1807.09968)
-- Zezheng Wang, Chenxu Zhao, Yunxiao Qin, Qiusheng Zhou, Zhen Lei .[Exploiting temporal and depth information for multi-frame face anti-spoofing](https://arxiv.org/pdf/1811.05118)
-- Wei Hu, Gusi Te, Ju He, Dong Chen, Zongming Guo .[Exploring Hypergraph Representation on Face Anti-spoofing Beyond 2D Attacks](https://arxiv.org/pdf/1811.11594)
-- Jianzhu Guo, Xiangyu Zhu, Jinchuan Xiao, Zhen Lei, Genxun Wan, Stan Z. Li .[Improving Face Anti-Spoofing by 3D Virtual Synthesis](https://arxiv.org/pdf/1901.00488)
-- Xiaoguang Tu, Jian Zhao, Mei Xie, Guodong Du, Hengsheng Zhang, Jianshu Li, Zheng Ma, Jiashi Feng .[Learning Generalizable and Identity-Discriminative Representations for Face Anti-Spoofing](https://arxiv.org/pdf/1901.05602)
-- Xiaoguang Tu, Hengsheng Zhang, Mei Xie, Yao Luo, Yuefei Zhang, Zheng Ma .[Deep Transfer Across Domains for Face Anti-spoofing](https://arxiv.org/pdf/1901.05633)
-- Xiaoguang Tu, Hengsheng Zhang, Mei Xie, Yao Luo, Yuefei Zhang, Zheng Ma .[Enhance the Motion Cues for Face Anti-Spoofing using CNN-LSTM Architecture](https://arxiv.org/pdf/1901.05635)
-- Rodrigo Bresan, Allan Pinto, Anderson Rocha, Carlos Beluzo, Tiago Carvalho .[FaceSpoof Buster: a Presentation Attack Detector Based on Intrinsic Image Properties and Deep Learning](https://arxiv.org/pdf/1902.02845)
-- Zuheng Ming, Junshi Xia, Muhammad Muzzamil Luqman, Jean-Christophe Burie, Kaixing Zhao .[FaceLiveNet+: A Holistic Networks For Face Authentication Based On Dynamic Multi-task Convolutional Neural Networks](https://arxiv.org/pdf/1902.11179)
-- Huiling Hao, Mingtao Pei .[Face Liveness Detection Based on Client Identity Using Siamese Network](https://arxiv.org/pdf/1903.05369)
-- Yaojie Liu, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu .[Deep Tree Learning for Zero-shot Face Anti-Spoofing](https://arxiv.org/pdf/1904.02860)
-- Artur Costa-Pazo, David Jimenez-Cabello, Esteban Vazquez-Fernandez, Jose L. Alba-Castro, Roberto J. López-Sastre .[Generalized Presentation Attack Detection: a face anti-spoofing evaluation proposal](https://arxiv.org/pdf/1904.06213)
-- Daniel Pérez-Cabo, David Jiménez-Cabello, Artur Costa-Pazo, Roberto J. López-Sastre .[Deep Anomaly Detection for Generalized Face Anti-Spoofing](https://arxiv.org/pdf/1904.08241)
-- Peng Zhang, Fuhao Zou, Zhiwen Wu, Nengli Dai, Skarpness Mark, Michael Fu, Juan Zhao, Kai Li .[FeatherNets: Convolutional Neural Networks as Light as Feather for Face Anti-spoofing](https://arxiv.org/pdf/1904.09290)
-- Chenxu Zhao, Yunxiao Qin, Zezheng Wang, Tianyu Fu, Hailin Shi .[Meta Anti-spoofing: Learning to Learn in Face Anti-spoofing](https://arxiv.org/pdf/1904.12490)
+- Yaojie Liu, Amin Jourabloo, Xiaoming Liu [Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary  Supervision](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/Learning%20Deep%20models%20for%20face%20anti%20spoofing%20-%20binary%20or%20auxiliary%20supervision)
+
+- Amin Jourabloo, Yaojie Liu, Xiaoming Liu [Face De-Spoofing: Anti-Spoofing via Noise Modeling](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/Face%20De-Spoofing:%20Anti-Spoofing%20via%20Noise%20Modeling)
+
+- Zezheng Wang, Chenxu Zhao, Yunxiao Qin, Qiusheng Zhou, Zhen Lei [Exploiting temporal and depth information for multi-frame face anti-spoofing](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/Exploiting%20temporal%20and%20depth%20information%20for%20multi-frame%20face%20anti-spoofing)
+
+- Wei Hu, Gusi Te, Ju He, Dong Chen, Zongming Guo [Exploring Hypergraph Representation on Face Anti-spoofing Beyond 2D Attacks](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/Exploring%20Hypergraph%20Representation%20on%20Face%20Anti-spoofing%20Beyond%202D%20Attacks)
+
+- Jianzhu Guo, Xiangyu Zhu, Jinchuan Xiao, Zhen Lei, Genxun Wan, Stan Z. Li [Improving Face Anti-Spoofing by 3D Virtual Synthesis](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/Improving%20Face%20Anti-Spoofing%20by%203D%20Virtual%20Synthesis)
+
+- Xiaoguang Tu, Jian Zhao, Mei Xie, Guodong Du, Hengsheng Zhang, Jianshu Li, Zheng Ma, Jiashi Feng [Learning Generalizable and Identity-Discriminative Representations for Face Anti-Spoofing](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/Learning%20Generalizable%20and%20Identity-Discriminative%20Representations%20for%20Face%20Anti-Spoofing)
+
+- Xiaoguang Tu, Hengsheng Zhang, Mei Xie, Yao Luo, Yuefei Zhang, Zheng Ma [Deep Transfer Across Domains for Face Anti-spoofing](https://arxiv.org/pdf/1901.05633)
+
+- Xiaoguang Tu, Hengsheng Zhang, Mei Xie, Yao Luo, Yuefei Zhang, Zheng Ma [Enhance the Motion Cues for Face Anti-Spoofing using CNN-LSTM Architecture](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/Enhance%20the%20Motion%20Cues%20for%20Face%20Anti-Spoofing%20using%20CNN-LSTM%20Architecture)
+
+- Rodrigo Bresan, Allan Pinto, Anderson Rocha, Carlos Beluzo, Tiago Carvalho [FaceSpoof Buster: a Presentation Attack Detector Based on Intrinsic Image Properties and Deep Learning](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/FaceSpoof%20Buster:%20a%20Presentation%20Attack%20Detector%20Based%20on%20Intrinsic%20Image%20Properties%20and%20Deep%20Learning)
+
+- Zuheng Ming, Junshi Xia, Muhammad Muzzamil Luqman, Jean-Christophe Burie, Kaixing Zhao [FaceLiveNet+: A Holistic Networks For Face Authentication Based On Dynamic Multi-task Convolutional Neural Networks](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/FaceLiveNet%2B:%20A%20Holistic%20Networks%20For%20Face%20Authentication%20Based%20On%20Dynamic%20Multi-task%20Convolutional%20Neural%20Networks)
+
+- Huiling Hao, Mingtao Pei [Face Liveness Detection Based on Client Identity Using Siamese Network](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/Face%20Liveness%20Detection%20Based%20on%20Client%20Identity%20Using%20Siamese%09Network)
+
+- Yaojie Liu, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu [Deep Tree Learning for Zero-shot Face Anti-Spoofing](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/Deep%20Tree%20Learning%20for%20Zero-shot%20Face%20Anti-Spoofing)
+
+- Artur Costa-Pazo, David Jimenez-Cabello, Esteban Vazquez-Fernandez, Jose L. Alba-Castro, Roberto J. López-Sastre [Generalized Presentation Attack Detection: a face anti-spoofing evaluation proposal](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/Generalized%20Presentation%20Attack%20Detection:%20a%20face%20anti-spoofing%20evaluation%20proposal)
+
+- Daniel Pérez-Cabo, David Jiménez-Cabello, Artur Costa-Pazo, Roberto J. López-Sastre [Deep Anomaly Detection for Generalized Face Anti-Spoofing](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/Deep%20Anomaly%20Detection%20for%20Generalized%20Face%20Anti-Spoofing)
+
+- Peng Zhang, Fuhao Zou, Zhiwen Wu, Nengli Dai, Skarpness Mark, Michael Fu, Juan Zhao, Kai Li [FeatherNets: Convolutional Neural Networks as Light as Feather for Face Anti-spoofing](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/FeatherNets:%20Convolutional%20Neural%20Networks%20as%20Light%20as%20Feather%20for%20Face%20Anti-spoofing)
+
+- Chenxu Zhao, Yunxiao Qin, Zezheng Wang, Tianyu Fu, Hailin Shi [Meta Anti-spoofing: Learning to Learn in Face Anti-spoofing](https://arxiv.org/pdf/1904.12490)
+
+- Haoliang Li, Peisong He, Shiqi Wang, Anderson Rocha, Xinghao Jiang, and Alex C. Kot [Learning Generalized Deep Feature Representation for Face Anti-Spoofing]()
+
+- Olegs Nikisins, Anjith George, Sebastien Marcel [Domain Adaptation in Multi-Channel Autoencoder based Features for Robust
+Face Anti-Spoofing]()
+
+Rui Shao , Xiangyuan Lan , and Pong C. Yuen [Joint Discriminative Learning of Deep Dynamic Textures for 3D Mask Face Anti-Spoofing]()
+
+Javier Hernandez-Ortega, Julian Fierrez, Aythami Morales, Pedro Tome [Time Analysis of Pulse-based Face Anti-Spoofing in Visible and NIR]()
+
+Kaouthar Larbi, Wael Ouarda, Hassen Drira, Booulbaba Ben Amor, and Chokri Ben Amar [DeepColorFASD: Face Anti Spoofing Solution using a Multi Channeled Color Spaces CNN]()
+
+Wen-Shuai Qi, Hui-Ming Ding, You-Bao Wang, Zhi-Feng Xie [Scene-independent Feature Representation for Face Anti-spoofing]()
+
+Artur Costa-Pazo, David Jimenez-Cabello, Esteban Vazquez-Fernandez, Jose L. Alba-Castro, Roberto J. López-Sastre [Generalized Presentation Attack Detection: a face anti-spoofing evaluation proposal]()
+
