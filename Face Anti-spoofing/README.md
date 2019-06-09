@@ -21,15 +21,18 @@ Some spoofing attacks are :
 
 #### Anti-spoofing Datasets
 
-| Datasets          | Links                                                        | Year | Spoof attacks attacks | Publish Time |
-| ----------------- | ------------------------------------------------------------ | ---- | --------------------- | ------------ |
-| **NUAA**          | [Download](http://parnec.nuaa.edu.cn/xtan/data/nuaaimposterdb.html) | 2010 | **Print**             | 2010         |
-| **CASIA-MFSD**    | Download(link failed)                                        | 2012 | **Print, Replay**     | 2012         |
-| **Replay-Attack** | [Download](https://www.idiap.ch/dataset/replayattack)        | 2012 | **Print, 2 Replay**   | 2012         |
-| **MSU-MFSD**      |[Download](https://www.cse.msu.edu/rgroups/biometrics/Publications/Databases/MSUMobileFaceSpoofing/index.htm) | 2015 | **Print, 2 Replay**   | 2015         |
-| **MSU-USSA**      | [Download](http://biometrics.cse.msu.edu/Publications/Databases/MSU_USSA/) | 2016 | **2 Print, 6 Replay** | 2016         |
-| **Oulu-NPU**      |[Download](https://sites.google.com/site/oulunpudatabase/)   | 2017 | **2 Print, 6 Replay** | 2017         |
-| **Siw**           | [Download](http://cvlab.cse.msu.edu/spoof-in-the-wild-siw-face-anti-spoofing-database.html) | 2018 | **2 Print, 4 Replay** | 2018         |
+| Datasets                                           | Associated Paper                                             | Year Published | #subjects | #live/attack | Data modality | Spoof attacks |
+| -------------------------------------------------- | ------------------------------------------------------------ | -------------- | ----------- | ---------- | ------------- | --------------- |
+| [**NUAA**](http://parnec.nuaa.edu.cn/xtan/data/NUAAImposterDB.html) | [PDF](http://parnec.nuaa.edu.cn/xtan/paper/eccv10r1.pdf) | 2010 | 15 | 5105/7509 | RGB | **Print**             |
+| **CASIA-MFSD**                                     | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6199754)                                        | 2012 | 50 | 150/450 | RGB | **Print(wrapped,cut photo), Replay**     |
+| [**Replay-Attack**](https://www.idiap.ch/dataset/replayattack) | [PDF](https://publications.idiap.ch/downloads/papers/2012/Chingovska_IEEEBIOSIG2012_2012.pdf)        | 2012 | 50 | 200/1000 | RGB | **Print, 2 Replay**   |
+| [**MSU-MFSD**](http://biometrics.cse.msu.edu/Publications/Databases/MSUMobileFaceSpoofing/index.htm)      |[PDF](http://vipl.ict.ac.cn/uploadfile/upload/2017020711092984.pdf) | 2014 | 35 | 110/330 | RGB | **Print, 2 Replay**   |
+| [**MSU-USSA**](http://biometrics.cse.msu.edu/Publications/Databases/MSU_USSA/)      | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7487030) | 2016 | 1140 | 1140/9120 | RGB | **2 Print, 6 Replay** |
+| [**Replay-Mobile**](https://www.idiap.ch/dataset/replay-mobile)      | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7736936) | 2016 | 40 | 390/640 | RGB | **Print, 2 Replay** |
+| [**Oulu-NPU**](https://sites.google.com/site/oulunpudatabase/)      |[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7961798)   | 2017 | 55 | 1980/3960 | RGB | **2 Print, 2 Replay** |
+| [**Siw**](http://cvlab.cse.msu.edu/spoof-in-the-wild-siw-face-anti-spoofing-database.html)           | [PDF](https://arxiv.org/pdf/1803.11097.pdf) | 2018 | 165 | 1320/3300 | RGB |  **2 Print, 4 Replay** |
+| **Siw-M**           | [PDF](https://arxiv.org/pdf/1904.02860.pdf) | 2018 | 493 | 660/970 | RGB | **Print, Replay,5 mask, 3 makeup, 3 Partial** |
+| [**CASIS-SURF**](https://sites.google.com/qq.com/chalearnfacespoofingattackdete/dataset?authuser=0)           | [PDF](https://arxiv.org/pdf/1812.00408v3.pdf) | 2019 | 1000 | 3500/17500 | RGB/Depth/IR | **Print, Mask** |
 
 ## Face Anti-Spoofing Papers
 
