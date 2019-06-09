@@ -51,7 +51,7 @@ Some spoofing attacks are :
 
 - Xiaoguang Tu, Jian Zhao, Mei Xie, Guodong Du, Hengsheng Zhang, Jianshu Li, Zheng Ma, Jiashi Feng [Learning Generalizable and Identity-Discriminative Representations for Face Anti-Spoofing](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/Learning%20Generalizable%20and%20Identity-Discriminative%20Representations%20for%20Face%20Anti-Spoofing)
 
-- Xiaoguang Tu, Hengsheng Zhang, Mei Xie, Yao Luo, Yuefei Zhang, Zheng Ma [Deep Transfer Across Domains for Face Anti-spoofing](https://arxiv.org/pdf/1901.05633)
+- Xiaoguang Tu, Hengsheng Zhang, Mei Xie, Yao Luo, Yuefei Zhang, Zheng Ma [Deep Transfer Across Domains for Face Anti-spoofing](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/Deep%20Transfer%20Across%20Domains%20for%20Face%20Anti-spoofing)
 
 - Xiaoguang Tu, Hengsheng Zhang, Mei Xie, Yao Luo, Yuefei Zhang, Zheng Ma [Enhance the Motion Cues for Face Anti-Spoofing using CNN-LSTM Architecture](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/Enhance%20the%20Motion%20Cues%20for%20Face%20Anti-Spoofing%20using%20CNN-LSTM%20Architecture)
 
