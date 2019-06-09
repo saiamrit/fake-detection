@@ -76,13 +76,13 @@ Some spoofing attacks are :
 - Olegs Nikisins, Anjith George, Sebastien Marcel [Domain Adaptation in Multi-Channel Autoencoder based Features for Robust
 Face Anti-Spoofing]()
 
-Rui Shao , Xiangyuan Lan , and Pong C. Yuen [Joint Discriminative Learning of Deep Dynamic Textures for 3D Mask Face Anti-Spoofing]()
+- Rui Shao , Xiangyuan Lan , and Pong C. Yuen [Joint Discriminative Learning of Deep Dynamic Textures for 3D Mask Face Anti-Spoofing]()
 
-Javier Hernandez-Ortega, Julian Fierrez, Aythami Morales, Pedro Tome [Time Analysis of Pulse-based Face Anti-Spoofing in Visible and NIR]()
+- Javier Hernandez-Ortega, Julian Fierrez, Aythami Morales, Pedro Tome [Time Analysis of Pulse-based Face Anti-Spoofing in Visible and NIR]()
 
-Kaouthar Larbi, Wael Ouarda, Hassen Drira, Booulbaba Ben Amor, and Chokri Ben Amar [DeepColorFASD: Face Anti Spoofing Solution using a Multi Channeled Color Spaces CNN]()
+- Kaouthar Larbi, Wael Ouarda, Hassen Drira, Booulbaba Ben Amor, and Chokri Ben Amar [DeepColorFASD: Face Anti Spoofing Solution using a Multi Channeled Color Spaces CNN]()
 
-Wen-Shuai Qi, Hui-Ming Ding, You-Bao Wang, Zhi-Feng Xie [Scene-independent Feature Representation for Face Anti-spoofing]()
+- Wen-Shuai Qi, Hui-Ming Ding, You-Bao Wang, Zhi-Feng Xie [Scene-independent Feature Representation for Face Anti-spoofing]()
 
-Artur Costa-Pazo, David Jimenez-Cabello, Esteban Vazquez-Fernandez, Jose L. Alba-Castro, Roberto J. López-Sastre [Generalized Presentation Attack Detection: a face anti-spoofing evaluation proposal]()
+- Artur Costa-Pazo, David Jimenez-Cabello, Esteban Vazquez-Fernandez, Jose L. Alba-Castro, Roberto J. López-Sastre [Generalized Presentation Attack Detection: a face anti-spoofing evaluation proposal]()
 
