@@ -35,8 +35,6 @@ Some spoofing attacks are :
 | [**CASIS-SURF**](https://sites.google.com/qq.com/chalearnfacespoofingattackdete/dataset?authuser=0)           | [PDF](https://arxiv.org/pdf/1812.00408v3.pdf) | 2019 | 1000 | 3500/17500 | RGB/Depth/IR | **Print, Mask** |
 
 
-**A detailed analysis of the various public datasets released can be found [here](https://docs.google.com/spreadsheets/d/1rH-SkrbvFpKxcUM7dcZOsyihrr30g16HFy2m1sQobGo/edit?usp=sharing)**
-
 ## Face Anti-Spoofing Papers
 
 - Yaojie Liu, Amin Jourabloo, Xiaoming Liu [Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary  Supervision](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/Learning%20Deep%20models%20for%20face%20anti%20spoofing%20-%20binary%20or%20auxiliary%20supervision)
