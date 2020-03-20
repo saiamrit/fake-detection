@@ -1,6 +1,6 @@
 ## Face De-Spoofing: Anti-Spoofing via Noise Modeling
 
-- A spoof image is being decomposed into a spoof noise and live face and then utilising the spoof noise for classification.
+- A spoof image is  being decomposed into a spoof noise and live face and then utilising the spoof noise for classification.
 - The extracted spoof signal also gives a visualisation which helps to understand the spoof noise added by each spoof medium.
 - In this paper they try to open the black box assumption of a spoof image by considering a spoof image to be a re-rendering of a live image with some special noise added by the spoof medium and environment.
 - This paper considers anti-spoofing as a de-X problem like de-noising or de-blurring and call it de-spoofing.A spoof image is decomposed to a live image and a spoof noise signal.
