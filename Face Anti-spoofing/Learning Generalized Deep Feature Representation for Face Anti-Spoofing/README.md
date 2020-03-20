@@ -18,6 +18,6 @@ Experimental results indicate that our method can learn more
 discriminative and generalized information compared with the
 state-of-the-art methods.
 
-- we apply a 3D CNN network which take both spatial and temporal information into consideration with a specifically designed data augmentation method for face spoofing detection.
+- we apply a 3D CNN  network which take both spatial and temporal information into consideration with a specifically designed data augmentation method for face spoofing detection.
 - To further improve the generalization performance, we employ a generalization regularization by minimizing the Maximum Mean Discrepancy distance among different domains.
 - We conduct extensive experimental analysis on four different datasets as well as our proposed cross-camera based protocol. The results show that our proposed framework can achieve significantly better performance compared with other state-of-the-art methods.
