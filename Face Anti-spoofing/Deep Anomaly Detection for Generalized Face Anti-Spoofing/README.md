@@ -4,7 +4,7 @@
 
 #### Published in - CVPR 2019 Workshop
 
-- Recent methods are not able to correctly generalise the face presentation attack problem because most models overfit on the training data domain and fail to give promising results on a completely different test domain.
+- Recent methods  are not able to correctly generalise the face presentation attack problem because most models overfit on the training data domain and fail to give promising results on a completely different test domain.
 - The Face Anti-spoofing problem is approached as an anomaly detection problem based on deep metric learning with a Triplet Focal loss using just still images.
 - In deep metric based learning approaches, objective is to learn a deep model that generates a feature representation in which samples from same classes are closer in the embedding space than samples from different categories.
 - The triplet loss is modified to incorporate focal attention.The triplet loss automatically up-weights hard examples by mapping euclidean distance to an exponential kernel penalising them much more than easy ones.
