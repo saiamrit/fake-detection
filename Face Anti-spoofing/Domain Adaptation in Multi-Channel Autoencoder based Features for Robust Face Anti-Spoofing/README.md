@@ -3,7 +3,7 @@
 [International Conference on Biometrics 2019]
 
 -  A novel deep-learning based
-MC face PAD algorithm is introduced, having a CNN-like
+MC face PAD algorithm is  introduced, having a CNN-like
 structure composed of a set of MC encoders and an MLP.
 - Instead of collecting more training data, the domain
 adaptation technique is proposed, transferring the knowledge of facial appearance from RGB to multi-channel domain. Domain adaptation is done via autoencoders, which
