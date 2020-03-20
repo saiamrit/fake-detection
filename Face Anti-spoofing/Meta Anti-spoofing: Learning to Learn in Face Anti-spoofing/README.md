@@ -11,7 +11,7 @@ and CASIA-SURF), and the proposed approach shows its
 superior performances to compared methods.
 
 
-- To the best of our knowledge, we are the first to define
+- To the best of our  knowledge, we are the first to define
 face anti-spoofing as a few-shot learning problem with
 evolving new attacks. We further consider zero-shot
 scenario as a boundary condition of this issue.
