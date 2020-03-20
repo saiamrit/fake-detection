@@ -5,7 +5,7 @@
 #### Published  - Computer Vision and Pattern Recognition (CVPR'18), 2018 (exhibit @CVPR Demo) 
 
 **Description** 
-- Most methods formulate anti spoofing as a binary classification problem.
+- Most methods formulate anti  spoofing as a binary classification problem.
 - They focus on the importance of auxiliary supervision to guide the learning towards generalisable and discriminative cues.
 - CNN - RNN model is learnt to estimate face deepth with pixel wise supervision and estimate rPPG signals with sequence wise supervision.
 - Depth estimate and rPPG are fused to distinguish live vs spoof.
