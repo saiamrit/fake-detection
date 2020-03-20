@@ -34,6 +34,7 @@ Some spoofing attacks are :
 | [**Siw-M**](http://cvlab.cse.msu.edu/siw-m-spoof-in-the-wild-with-multiple-attacks-database.html)           | [PDF](https://arxiv.org/pdf/1904.02860.pdf) | 2018 | 493 | 660/970 | RGB | **Print, Replay,5 mask, 3 makeup, 3 Partial** |
 | [**CASIS-SURF**](https://sites.google.com/qq.com/chalearnfacespoofingattackdete/dataset?authuser=0)           | [PDF](https://arxiv.org/pdf/1812.00408v3.pdf) | 2019 | 1000 | 3500/17500 | RGB/Depth/IR | **Print, Mask** |
 
+**A detailed analysis of the various public datasets released can be found [here](https://docs.google.com/spreadsheets/d/1rH-SkrbvFpKxcUM7dcZOsyihrr30g16HFy2m1sQobGo/edit?usp=sharing)**
 
 ## Face Anti-Spoofing Papers
 
