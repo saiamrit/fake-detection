@@ -78,3 +78,5 @@ Face Anti-Spoofing](https://github.com/saiamrit/fake-detection/tree/master/Face%
 - Rui Shao , Xiangyuan Lan , and Pong C. Yuen [Joint Discriminative Learning of Deep Dynamic Textures for 3D Mask Face Anti-Spoofing](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/Joint%20Discriminative%20Learning%20of%20Deep%20Dynamic%20Textures%20for%203D%20Mask%20Face%20Anti-Spoofing)
 
 - Javier Hernandez-Ortega, Julian Fierrez, Aythami Morales, Pedro Tome [Time Analysis of Pulse-based Face Anti-Spoofing in Visible and NIR](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/Time%20Analysis%20of%20Pulse-based%20Face%20Anti-Spoofing%20in%20Visible%20and%20NIR)
+
+-  Zitong Yu, Chenxu Zhao, Zezheng Wang, Yunxiao Qin, Zhuo Su, Xiaobai Li, Feng Zhou, Guoying Zhao [Searching Central Difference Convolution Networks for Face Anti-Spoofing](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing/Searching%20Central%20Difference%20Convolution%20Networks%20for%20Face%20Anti-Spoofing) [Current State of the Art]
