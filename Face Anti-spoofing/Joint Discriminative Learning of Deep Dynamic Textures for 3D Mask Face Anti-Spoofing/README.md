@@ -2,7 +2,7 @@
 
 [IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY]
 
-- We propose a new feature, named deep dynamic texture for 3D mask face anti-spoofing. The proposed feature
+- We propose a new feature,  named deep dynamic texture for 3D mask face anti-spoofing. The proposed feature
 exploits the dynamic information of textures from a CNN’s
 convolutional layer, and is able to capture subtle facial motion
 differences between real faces and masked faces with strong
